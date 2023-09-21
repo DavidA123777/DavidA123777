@@ -31,4 +31,71 @@ Here are some of the languages and tools I frequently use:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Badges</title>
+    <style>
+        /* Styles for the button badges */
+        .badge {
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: #007BFF;
+            color: white;
+            border-radius: 4px;
+            margin: 4px;
+            font-weight: bold;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        /* Individual badge styles */
+        .react {
+            background-color: #61DAFB;
+        }
+
+        .redux {
+            background-color: #764ABC;
+        }
+
+        .html5 {
+            background-color: #E34F26;
+        }
+
+        .css3 {
+            background-color: #1572B6;
+        }
+
+        .javascript {
+            background-color: #F7DF1E;
+        }
+
+        .sql {
+            background-color: #0769AD;
+        }
+
+        .git {
+            background-color: #F05032;
+        }
+
+        .linux {
+            background-color: #FCC624;
+        }
+    </style>
+</head>
+<body>
+    <a class="badge react">React</a>
+    <a class="badge redux">Redux</a>
+    <a class="badge html5">HTML5</a>
+    <a class="badge css3">CSS3</a>
+    <a class="badge javascript">JavaScript</a>
+    <a class="badge sql">SQL</a>
+    <a class="badge git">Git</a>
+    <a class="badge linux">Linux</a>
+</body>
+</html>
+
+
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
