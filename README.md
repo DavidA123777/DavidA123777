@@ -19,7 +19,6 @@ You can find me on GitHub and LinkedIn:
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/DavidA123777)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-a-1346ab23b/)
 ## Languages and Tools
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
