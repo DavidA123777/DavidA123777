@@ -27,7 +27,6 @@ You can find me on GitHub and LinkedIn:
 ## Languages and Tools
 
 Here are some of the languages and tools I frequently use:
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,5 +35,6 @@ Here are some of the languages and tools I frequently use:
 ![SQL](https://img.shields.io/badge/-SQL-0769AD?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
