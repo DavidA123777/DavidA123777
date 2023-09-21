@@ -19,7 +19,7 @@ You can find me on GitHub and LinkedIn:
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/DavidA123777)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-a-1346ab23b/)
 
-## Checkout my Website
+## Checkout my Website 
 
 [![Portfolio](https://img.shields.io/badge/%20Portfolio-gray?style=for-the-badge)](https://davida123777.github.io/Portfolio-Website/index.html)
 
