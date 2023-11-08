@@ -2,7 +2,7 @@
 
 👨‍💻 Web Developer & Software Engineer| 🌍 based in New York City
 
-🎓 Education: Hunter College
+🎓 Education: Bachelor's in Computer Science from Hunter College
 
 - ⚡ Fun fact: I love Soccer, Calisthenics, and Music!
 
