@@ -10,7 +10,7 @@
 
 I have experience in a wide range of technologies, including:
 
-- React, Redux, HTML5, CSS3, Bootstrap, JavaScript, C++, Python
+- React, Redux, HTML5, CSS3, Bootstrap, JavaScript, C++, Python, SQL
 
 ## Connect with me
 
