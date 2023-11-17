@@ -22,5 +22,3 @@ You can find me on GitHub and LinkedIn:
 ## Checkout my Website 
 
 [![Portfolio](https://img.shields.io/badge/%20Portfolio-gray?style=for-the-badge)](https://davida123777.github.io/Portfolio-Website/index.html)
-
-
