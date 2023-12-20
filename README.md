@@ -10,7 +10,7 @@
 
 I have experience in a wide range of technologies, including:
 
-- React, Redux, HTML5, CSS3, Bootstrap, JavaScript, C++, Python, SQL, UI/UX Design, MongoDB, MySQL, PostgreSQL, Microsoft Office, Canva
+- React, HTML5, CSS3, Bootstrap, JavaScript, C++, Python, SQL, UI/UX Design, MongoDB, MySQL, PostgreSQL, Microsoft Office, Canva
 
 ## Connect with me
 
