@@ -10,11 +10,11 @@
 
 I have experience in a wide range of technologies, including:
 
-- React, HTML5, CSS3, Bootstrap, JavaScript, C++, Python, SQL, UI/UX Design, MongoDB, MySQL, PostgreSQL, Microsoft Office, Canva
+- React, HTML5, CSS3, Bootstrap, JavaScript, C++, Python, SQL, Power BI, UI/UX Design, MongoDB, MySQL, PostgreSQL, Microsoft Office, Canva
 
 ## Connect with me
 
-You can find me on GitHub and LinkedIn:
+You can find me here on GitHub and on LinkedIn:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/DavidA123777)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-abushlaih/)
