@@ -6,6 +6,9 @@
 
 - ⚡ Fun fact: I love Soccer, Calisthenics, and Music!
 
+![image](https://github.com/DavidA123777/DavidA123777/assets/83670808/617c6104-1a13-4d02-8080-ee3e3bfb7c61)
+
+
 ## Skills
 
 I have experience in a wide range of technologies, including:
