@@ -4,7 +4,7 @@
 
 🎓 Education: Hunter College - Bachelor's in Computer Science 
 
-- ⚡ Fun fact: I love Soccer, Calisthenics, and Music!
+- ⚡ Fun fact: I love Basketball, Soccer, Calisthenics, and Music!
 
 ## Skills
 
