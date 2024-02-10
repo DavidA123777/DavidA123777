@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm David Abushlaih
 
-👨‍💻 Web Developer & Software Engineer| 🌍 based in New York City
+👨‍💻 Data Analyst & Software Engineer| 🌍 based in New York City
 
 🎓 Education: Hunter College - Bachelor's in Computer Science 
 
@@ -10,7 +10,7 @@
 
 I have experience in a wide range of technologies, including:
 
-- React, HTML5, CSS3, Bootstrap, JavaScript, C++, Python, SQL, Power BI, UI/UX Design, MongoDB, MySQL, PostgreSQL, Microsoft Office, Canva
+- Power BI, Python, SQL, MySQL, PostgreSQL, Microsoft Office, C++, HTML5, CSS3, Bootstrap, JavaScript, React, UI/UX Design, MongoDB, Canva
 
 ## Connect with me
 
