@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm David Abushlaih
 
-👨‍💻 Data Analyst & Software Engineer| 🌍 based in New York City
+👨‍💻 Data Analyst & Software Engineer | 🌍 based in New York City
 
 🎓 Education: Hunter College - Bachelor's in Computer Science 
 
