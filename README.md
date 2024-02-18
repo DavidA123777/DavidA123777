@@ -23,6 +23,7 @@ I have experience in a wide range of technologies, including:
 
 ## Connect with me:
 You can find out more about me on
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-abushlaih/)
 
 ## Checkout my Website:
