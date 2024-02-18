@@ -25,5 +25,4 @@ I have experience in a wide range of technologies, including:
 You can find out more about me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-abushlaih/)
 
-## Checkout my Website 
-[![Portfolio](https://img.shields.io/badge/%20Portfolio-gray?style=for-the-badge)](https://davida123777.github.io/Portfolio-Website/index.html)
+Or Checkout my Website: [![Portfolio](https://img.shields.io/badge/%20Portfolio-gray?style=for-the-badge)](https://davida123777.github.io/Portfolio-Website/index.html)
