@@ -26,4 +26,4 @@ You can find out more about me on
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-abushlaih/)
 
 ## Checkout my Website:
-[![Portfolio](https://img.shields.io/badge/%20Portfolio-gray?style=for-the-badge)](https://davida123777.github.io/Portfolio-Website/index.html) website.
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-gray?style=for-the-badge)](https://davida123777.github.io/Portfolio-Website/index.html)
