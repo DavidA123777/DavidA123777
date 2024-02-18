@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm David Abushlaih
+# Hi! 👋 I'm David Abushlaih
 
 👨‍💻 Data Analyst & Software Engineer | 🌍 based in New York City
 
-🎓 Education: Hunter College - Bachelor's in Computer Science 
+🎓 Education: Recent Graduate from Hunter College - Bachelor's Degree in Computer Science (January 2024)
 
 - ⚡ Fun fact: I love Basketball, Soccer, Calisthenics, and Music!
 
@@ -12,9 +12,18 @@ I have experience in a wide range of technologies, including:
 
 - Power BI, Python, SQL, MySQL, PostgreSQL, Microsoft Office, C++, HTML5, CSS3, Bootstrap, JavaScript, React, UI/UX Design, MongoDB, Canva
 
+
+## Work and Internship Experience
+
+- Frontend UI/UX Developer Intern at Students Who Code from February 2023 - June 2023
+- Software Engineer Mentee at Google from September 2022 - June 2023
+- Project Manager for NASA's L'SPACE NPWEE Academy from September 2022 - January 2023
+- Business officer for NASA's L'SPACE Mission Concept Academy from May 2022 - September 2022
+
+
 ## Connect with me
 
-You can find me here on GitHub and on LinkedIn:
+You can find out more about me here on GitHub and LinkedIn:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/DavidA123777)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-abushlaih/)
