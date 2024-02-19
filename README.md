@@ -23,7 +23,7 @@ I have experience in a wide range of technologies, including:
 
 ## Currently Working On:
 
-- Improving my data structures and algorithm skills using python and solving leetcode questions
+- Improving my data structures and algorithm skills using Python by solving LeetCode questions
 - Learning Essential Data Analysis technologies like Power BI
 - Finding an opportunity to grow and work as a Data Analyst & Software Engineer
 
