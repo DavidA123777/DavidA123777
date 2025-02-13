@@ -15,6 +15,7 @@ I have experience in a wide range of technologies, including:
 
 ## Work and Internship Experience:
 
+- Business Analyst Intern at Zoetis from December 2023 - July 2024
 - Frontend UI/UX Developer Intern at Students Who Code from February 2023 - June 2023
 - Software Engineer Mentee at Google from September 2022 - June 2023
 - Project Manager for NASA's L'SPACE NPWEE Academy from September 2022 - January 2023
